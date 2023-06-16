@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Tucker Reals",
+            "title": "Imran Khan, former Pakistan leader and cricket star, shot in \"clear assassination attempt\"",
+            "description": "Aides of the divisive politician, who was ousted as PM earlier this year but is trying hard to make a comeback, say his wounds are not life-threatening.",
+            "url": "https://www.cbsnews.com/news/imran-khan-shot-pakistan-former-prime-minister-assassination-attempt/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/03/d83aa231-c585-4e8e-acb6-443db64ed122/thumbnail/1200x630/7295096b6690e38551bf9173d2196bc8/imran-khan-ap22307455351386.jpg",
+            "publishedAt": "2022-11-03T20:02:00+00:00",
+            "content": "Pakistan's cricket star-turned prime minister Imran Khan was shot on Thursday as an assailant opened fire on his vehicle in an apparent assassination attempt. Representatives for the ex-premier told … [+2258 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Pakistan beat South Africa to boost slim hopes",
+            "description": "Pakistan boost their slim hopes of progressing in the T20 World Cup with a brilliantly frenetic fightback against South Africa at the Sydney Cricket Ground.",
+            "url": "http://www.bbc.co.uk/sport/cricket/63496990",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/14739/production/_127496738_gettyimages-1438604436.jpg",
+            "publishedAt": "2022-11-03T12:52:30.5934438Z",
+            "content": "<table>\r\n<tr><td>ICC Men's T20 World Cup Group 2, Sydney</td></tr><tr><td>Pakistan 185-9 (20 overs): Shadab 52 (22), Iftikhar 51 (35); Nortje 4-41</td></tr><tr><td>South Africa 108-9 (14 overs): Bavu… [+3966 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": null,
+            "title": "Cricket legend Imran Khan shot",
+            "description": "<p>Former Pakistan prime minister Imran Khan, who first rose to fame as one of the nation&rsquo;s greatest cricketers, has been shot in the leg during an alleged gun attack, according to multiple reports.</p>",
+            "url": "https://www.news.com.au/sport/cricket/former-pakistan-prime-minister-imran-kan-shot-in-alleged-attack/news-story/322c5160139f75318a36e334cb658bd3",
+            "urlToImage": "https://content.api.news/v3/images/bin/789947693937a6c7b680af452c8169db",
+            "publishedAt": "2022-11-03T12:06:00Z",
+            "content": "Former Pakistan prime minister Imran Khan, who first rose to fame as one of the nation’s greatest cricketers, has been shot in the leg during an alleged gun attack, according to multiple reports.\r\nOn… [+778 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
